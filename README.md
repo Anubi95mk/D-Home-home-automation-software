@@ -7,11 +7,14 @@ The main element of D-Home is the **module**. It contains all the attributes and
 
 
 To run this software you need node-v8.12.0 or higher.
-**Android:**> pkg install nodejs
-**Arch Linux**:> pacman -S nodejs npm
-**macOS** *usingHomebrew*: > brew install node
+**Android:**
+> pkg install nodejs
+**Arch Linux**:
+> pacman -S nodejs npm
+**macOS** *usingHomebrew*: 
+> brew install node
 **Windows** Simply download the  [Windows Installer](https://nodejs.org/#download)  directly from the  [nodejs.org](https://nodejs.org/)  web site.
-> npm install
+
 
 
 ## Installing
