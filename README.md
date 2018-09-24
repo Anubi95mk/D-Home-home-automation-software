@@ -3,7 +3,7 @@
 
 ---
 
-<h1 id="d-home">D-Home<img src="http://i66.tinypic.com/23vaufa.png" alt="enter image description here"></h1>
+(http://i66.tinypic.com/23vaufa.png)
 <p><strong>D-Home</strong> is a home automation software for your smart home.<br>
 The main element of D-Home is the <strong>module</strong>. It contains all the attributes and functions for controlling devices or monitoring their status. The software offers developers the ability to write their own modules.</p>
 <h2 id="prerequisites">Prerequisites</h2>
